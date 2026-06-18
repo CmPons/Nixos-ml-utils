@@ -18,6 +18,7 @@ in
     home.packages = with pkgs; [
       claude-code
       claude-desktop-pkg
+      pi-coding-agent
     ];
   };
 }
